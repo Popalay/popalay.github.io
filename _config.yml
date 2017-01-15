@@ -1,17 +1,13 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
-
-# twitter summary info
-description: A blog about technology and stuff related
+name: Denis Nikiforov
+bio: Android Developer who like Koltin
 
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile.jpg
+picture: assets/images/profile.jpeg
 
-url: https://koppl.in/indigo
-# your url: http://USERNAME.github.io
+url: http://popalay.github.io
 
 permalink: /:title/
 
@@ -29,35 +25,28 @@ highlighter: rouge
 disqus: mydisqus
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+# facebook: myfacebook
+# twitter: mytwitter
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: mylinkedin
-youtube: myyoutube
-spotify: myspotify
-github: mygithub
-stackoverflow: 7044681/mystackoverflow
-quora: userquora
-reddit: username
-medium: medium
-vimeo: myvimeo
-email: myemail@gmail.com
+linkedin: https://www.linkedin.com/in/denis-nikiforov-080920124
+# youtube: myyoutube
+# spotify: myspotify
+github: https://github.com/popalay
+# stackoverflow: 7044681/mystackoverflow
+# quora: userquora
+# reddit: username
+# medium: medium
+# vimeo: myvimeo
+email: popalay1@gmail.com
 
 authors:
-    johndoe:
-        name: John Doe
-        bio: A Man who travels the world eating noodles
+    popalay:
+        name: Nikiforov Denis
+        bio: Android Developer who like Koltin
         external-image: false
-        picture: assets/images/profile.jpg
-        twitter: johndoe
-    jamesfoster:
-        name: James Foster
-        bio: A Man who develops software with coffee
-        external-image: false
-        picture: assets/images/james.jpg
-        twitter: jamesfoster
+        picture: assets/images/profile.jpeg
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
