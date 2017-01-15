@@ -1,6 +1,6 @@
 # main text of home
 name: Denis Nikiforov
-bio: Android Developer who like Koltin
+bio: Android Developer who like Kotlin
 
 # if it's an external image, update below for true
 # better with square images
@@ -30,10 +30,10 @@ disqus: mydisqus
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-linkedin: https://www.linkedin.com/in/denis-nikiforov-080920124
+linkedin: denis-nikiforov-080920124
 # youtube: myyoutube
 # spotify: myspotify
-github: https://github.com/popalay
+github: popalay
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
@@ -44,7 +44,7 @@ email: popalay1@gmail.com
 authors:
     popalay:
         name: Nikiforov Denis
-        bio: Android Developer who like Koltin
+        bio: Android Developer who like Kotlin
         external-image: false
         picture: assets/images/profile.jpeg
 
